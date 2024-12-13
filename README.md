@@ -1,5 +1,5 @@
 # Ex.08 Design of Interactive Image Gallery
-# Date:18-11-2024
+# Date:25-11-2024
 # AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
@@ -128,5 +128,6 @@ function closeModal() {
 ```
 # OUTPUT:
 ![alt text](image.png)
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.

@@ -126,7 +126,12 @@ function closeModal() {
 </body>
 </html>
 ```
+
+
+
 # OUTPUT:
+
+
 ![alt text](image.png)
 
 # RESULT:

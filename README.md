@@ -24,7 +24,6 @@ Publish the website in the given URL.
 
 # PROGRAM :
 ```
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -95,12 +94,10 @@ Publish the website in the given URL.
   modal.style.display = "flex";
   modalImg.src = image.src;
 }
-
 function closeModal() {
   const modal = document.getElementById('imageModal');
   modal.style.display = "none";
 }
-
   </script>
 </head>
 <body background="https://static.vecteezy.com/system/resources/previews/038/811/269/non_2x/ai-generated-beautiful-background-for-flower-shop-advertising-free-photo.jpeg">
@@ -116,8 +113,6 @@ function closeModal() {
     <img src="https://img.freepik.com/premium-photo/moon-night-forest-nature-landscape-background_533566-703.jpg" alt="Image 6" class="gallery-item" onclick="openModal(this)">    
     <img src="https://img.freepik.com/premium-photo/dark-cold-forest-night-river-along-forest-full-moon-winter-polar-landscape_379823-3756.jpg" alt="Image 7" class="gallery-item" onclick="openModal(this)">    
   </div>
-
-  
   <div id="imageModal" class="modal" onclick="closeModal()">
     <span class="close">&times;</span>
     <img class="modal-content" id="modalImage">
